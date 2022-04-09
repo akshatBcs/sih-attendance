@@ -21,7 +21,7 @@ ctime = 0
 # conn = dbcon.connect()
 
 
-path = '/home/akshat/Desktop/sih/temp-soh/Image Folder'
+path = '/home/akshat/Desktop/sih/SIH-working/Image Folder'
 images = []
 personNames = []
 myList = os.listdir(path)
